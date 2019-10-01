@@ -1,4 +1,4 @@
-package Products;
+package Customer;
 
 public @interface XmlElement {
 
